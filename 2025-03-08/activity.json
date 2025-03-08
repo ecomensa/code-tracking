@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-08",
+  "projects": {
+    "User": {
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json": [
+          {
+            "timestamp": "2025-03-08T04:56:09.372Z",
+            "fileName": "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "5": 0
+      },
+      "topFiles": [
+        "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json"
+      ],
+      "averageChangeSize": 5
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    5
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
