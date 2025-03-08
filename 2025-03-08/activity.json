@@ -33,6 +33,39 @@
         "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json"
       ],
       "averageChangeSize": 5
+    },
+    "ui": {
+      "totalLinesAdded": 101,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/components/ui/hero-section.tsx": [
+          {
+            "timestamp": "2025-03-08T05:35:37.677Z",
+            "fileName": "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/components/ui/hero-section.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 101,
+            "linesRemoved": 0,
+            "projectName": "ui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 0
+      },
+      "changeFrequency": {
+        "6": 0
+      },
+      "topFiles": [
+        "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/components/ui/hero-section.tsx"
+      ],
+      "averageChangeSize": 101
     }
   },
   "totalActiveTime": 0,
