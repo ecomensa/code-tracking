@@ -66,6 +66,39 @@
         "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/components/ui/hero-section.tsx"
       ],
       "averageChangeSize": 101
+    },
+    "proto_demo": {
+      "totalLinesAdded": 166,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/GENIXD.apple/proto_demo/<!DOCTYPE html>.html": [
+          {
+            "timestamp": "2025-03-08T06:35:12.180Z",
+            "fileName": "/Users/GENIXD.apple/proto_demo/<!DOCTYPE html>.html",
+            "fileType": ".html",
+            "linesAdded": 166,
+            "linesRemoved": 0,
+            "projectName": "proto_demo",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 0
+      },
+      "changeFrequency": {
+        "7": 0
+      },
+      "topFiles": [
+        "/Users/GENIXD.apple/proto_demo/<!DOCTYPE html>.html"
+      ],
+      "averageChangeSize": 166
     }
   },
   "totalActiveTime": 0,
