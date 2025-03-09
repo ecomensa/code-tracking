@@ -1,0 +1,142 @@
+{
+  "date": "2025-03-09",
+  "projects": {
+    "User": {
+      "totalLinesAdded": 13,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json": [
+          {
+            "timestamp": "2025-03-09T06:30:10.308Z",
+            "fileName": "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T06:30:20.155Z",
+            "fileName": "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T06:30:29.513Z",
+            "fileName": "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2
+      },
+      "changeFrequency": {
+        "7": 2
+      },
+      "topFiles": [
+        "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json"
+      ],
+      "averageChangeSize": 4.666666666666667
+    },
+    "src": {
+      "totalLinesAdded": 73,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/App.tsx": [
+          {
+            "timestamp": "2025-03-09T06:30:53.345Z",
+            "fileName": "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 73,
+            "linesRemoved": 0,
+            "projectName": "src",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "7": 1
+      },
+      "topFiles": [
+        "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/App.tsx"
+      ],
+      "averageChangeSize": 73
+    },
+    "ui": {
+      "totalLinesAdded": 126,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/components/ui/navigation.tsx": [
+          {
+            "timestamp": "2025-03-09T06:31:18.448Z",
+            "fileName": "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/components/ui/navigation.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 126,
+            "linesRemoved": 0,
+            "projectName": "ui",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ]
+      },
+      "languageStats": {
+        "tsx": 1
+      },
+      "changeFrequency": {
+        "7": 1
+      },
+      "topFiles": [
+        "/Users/martinnevermann/CascadeProjects/21st-ui-project/src/components/ui/navigation.tsx"
+      ],
+      "averageChangeSize": 126
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 3,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "json",
+    "tsx"
+  ]
+}
