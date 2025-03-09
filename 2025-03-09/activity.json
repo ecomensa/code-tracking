@@ -63,7 +63,7 @@
       "averageChangeSize": 4.666666666666667
     },
     "src": {
-      "totalLinesAdded": 75,
+      "totalLinesAdded": 161,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -94,6 +94,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "/Users/martinnevermann/CascadeProjects/mcp-setup/src/App.tsx": [
+          {
+            "timestamp": "2025-03-09T12:59:12.270Z",
+            "fileName": "/Users/martinnevermann/CascadeProjects/mcp-setup/src/App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "src",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "tsx"
           }
         ]
