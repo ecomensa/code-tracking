@@ -2,7 +2,7 @@
   "date": "2025-03-09",
   "projects": {
     "User": {
-      "totalLinesAdded": 13,
+      "totalLinesAdded": 14,
       "totalLinesRemoved": 1,
       "totalActiveTime": 2,
       "files": {
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-09T16:06:41.012Z",
+            "fileName": "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "User",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
