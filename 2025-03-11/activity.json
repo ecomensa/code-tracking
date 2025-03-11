@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-11",
+  "projects": {
+    "wallaby-tutorial": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json": [
+          {
+            "timestamp": "2025-03-11T14:59:35.709Z",
+            "fileName": "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "wallaby-tutorial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-03-11T14:59:35.737Z",
+            "fileName": "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "wallaby-tutorial",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "/Users/martinnevermann/Library/Application Support/Windsurf - Next/User/settings.json"
+      ],
+      "averageChangeSize": 7
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
