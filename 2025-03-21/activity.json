@@ -1,0 +1,89 @@
+{
+  "date": "2025-03-21",
+  "projects": {
+    "opload_for_tags_01": {
+      "totalLinesAdded": 50,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "/Users/martinnevermann/Downloads/zips/rename/opload_for_tags_01/index.html": [
+          {
+            "timestamp": "2025-03-21T12:03:24.119Z",
+            "fileName": "/Users/martinnevermann/Downloads/zips/rename/opload_for_tags_01/index.html",
+            "fileType": ".html",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "opload_for_tags_01",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-03-21T12:03:29.353Z",
+            "fileName": "/Users/martinnevermann/Downloads/zips/rename/opload_for_tags_01/index.html",
+            "fileType": ".html",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "opload_for_tags_01",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-03-21T12:04:12.141Z",
+            "fileName": "/Users/martinnevermann/Downloads/zips/rename/opload_for_tags_01/index.html",
+            "fileType": ".html",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "opload_for_tags_01",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-03-21T12:06:14.260Z",
+            "fileName": "/Users/martinnevermann/Downloads/zips/rename/opload_for_tags_01/index.html",
+            "fileType": ".html",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "opload_for_tags_01",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "html": 5
+      },
+      "changeFrequency": {
+        "13": 5
+      },
+      "topFiles": [
+        "/Users/martinnevermann/Downloads/zips/rename/opload_for_tags_01/index.html"
+      ],
+      "averageChangeSize": 12.5
+    }
+  },
+  "totalActiveTime": 5,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "html"
+  ]
+}
